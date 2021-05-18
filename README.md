@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WinterBudi
+- 👋 Hi, I’m WinterBudi
 - 👀 I’m interested in web development. 
 - 🌱 I’m currently learning html5, css3 and javascript.
 - 💞️ I’m looking to collaborate on ...
